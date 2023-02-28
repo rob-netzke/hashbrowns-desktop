@@ -1,5 +1,5 @@
 # hashbrowns-desktop
-cryptographic string hashing for desktop
+cryptographic hashing of text data for desktop
 
 build from source:
 
